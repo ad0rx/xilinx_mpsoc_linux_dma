@@ -1,0 +1,31 @@
+#+TITLE: Linux DMA 
+
+* Version
+
+2018.3
+
+* Overview
+
+The purpose of this project is to provide an example of implementing a
+simple Zynq MPSoC design that demonstrates using DMA from Linux.
+
+* Goals
+
+Automated flow, fully scripted
+Minimal files under revision control - no BSP archive
+Use A53 and R5
+
+
+* Project Management
+
+** GIT
+
+Project revision control hosted on GitHub, local backups to USB drive.
+
+* Hardware Design
+
+Targets ZCU102 board
+
+* Interesting Existing Examples
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiG9qiLxs3gAhVC6YMKHXQoBz0QwqsBMAB6BAgAEAQ&url=https%3A%2F%2Fwww.xilinx.com%2Fvideo%2Fsoc%2Flinux-dma-in-device-drivers.html&usg=AOvVaw2TjxUmm_dbrjgb3pcUBoIC
